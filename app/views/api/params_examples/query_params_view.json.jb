@@ -1,0 +1,4 @@
+{
+  greeting: @my_message, 
+  fish: @butter
+}
